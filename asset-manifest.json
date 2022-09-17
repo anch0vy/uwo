@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/uwo/static/css/main.6587c2d5.css",
-    "main.js": "/uwo/static/js/main.ab8cd70b.js",
+    "main.js": "/uwo/static/js/main.e39ef096.js",
     "index.html": "/uwo/index.html",
     "main.6587c2d5.css.map": "/uwo/static/css/main.6587c2d5.css.map",
-    "main.ab8cd70b.js.map": "/uwo/static/js/main.ab8cd70b.js.map"
+    "main.e39ef096.js.map": "/uwo/static/js/main.e39ef096.js.map"
   },
   "entrypoints": [
     "static/css/main.6587c2d5.css",
-    "static/js/main.ab8cd70b.js"
+    "static/js/main.e39ef096.js"
   ]
 }
