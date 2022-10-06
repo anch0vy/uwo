@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/uwo/static/css/main.6587c2d5.css",
-    "main.js": "/uwo/static/js/main.4e174857.js",
+    "main.js": "/uwo/static/js/main.87173690.js",
     "sql-wasm.wasm": "/uwo/sql-wasm-057823fecaede6350cf9941c7d4c7ce3.wasm",
     "index.html": "/uwo/index.html",
     "main.6587c2d5.css.map": "/uwo/static/css/main.6587c2d5.css.map",
-    "main.4e174857.js.map": "/uwo/static/js/main.4e174857.js.map"
+    "main.87173690.js.map": "/uwo/static/js/main.87173690.js.map"
   },
   "entrypoints": [
     "static/css/main.6587c2d5.css",
-    "static/js/main.4e174857.js"
+    "static/js/main.87173690.js"
   ]
 }
